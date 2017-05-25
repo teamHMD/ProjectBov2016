@@ -1,3 +1,14 @@
+/*
+ * Created on: 2016 HMD Project Bov
+ * Team : HMD, Electric Engineering & Electron Engineering, Pusan National University
+ * Authors: Gu-hwan Bae
+ * 			Hye-ri Bang
+ * 			Jeong-wook Kim
+ * 			Tae-hyeong Koo
+ * 			Kyeong-Yeop Jeong
+ */
+
+
 package com.example.bov;
 
 import android.app.Activity;
