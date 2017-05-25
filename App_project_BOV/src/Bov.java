@@ -8,7 +8,6 @@
  * 			Kyeong-Yeop Jeong
  */
 
-
 package com.example.bov;
 
 import android.app.Activity;
